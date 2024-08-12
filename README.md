@@ -3,11 +3,11 @@ This is a classic arcade-style game inspired by the original Asteroids game.
 The player controls a spaceship navigating through space, avoiding and destroying asteroids and enemies, while collecting power-ups and maintaining lives.
 
 ## How to Play
-Launch the game.
-Use the arrow keys to navigate your spaceship.
-Shoot at the asteroids and enemies to gain points.
-Collect stars for power-ups.
-Survive as long as you can while avoiding collisions.
+* Launch the game.
+* Use the arrow keys to navigate your spaceship.
+* Shoot at the asteroids and enemies to gain points.
+* Collect stars for power-ups.
+* Survive as long as you can while avoiding collisions.
 
 ## Controls
 * Left Arrow: Rotate the spaceship to the left.
@@ -26,6 +26,11 @@ Survive as long as you can while avoiding collisions.
 * Sound Effects: Toggle sound effects on and off with the 'M' key.
 * Game Over: The game ends when you lose all your lives, with an option to restart.
 
+## Screenshots
+  <p align="center">  
+<img src="https://github.com/Hikari6462/Asteroids_Videogame/blob/main/Asteroids%20Videogame/Captura%20de%20pantalla%202024-08-12%20173254.png"
+width="600"></center>  
+</p>  
 
 <!-- License
 This project is licensed under the MIT License - see the LICENSE file for details.
