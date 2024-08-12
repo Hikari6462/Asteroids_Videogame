@@ -5,12 +5,12 @@ import random
 pygame.init()
 
 
-# variables de configuracion 
+# configuration variables
 
 sw = 800
 sh = 800
 
-#Carga de imagenes y sonidos 
+#  Loading images and sounds
 
 bg = pygame.image.load('asteroidsPics/starbg.png')
 alienImg = pygame.image.load('asteroidsPics/alienShip.png')
@@ -40,7 +40,7 @@ isSoundOn = True
 highScore = 0
 
 
-#clases de objetos del juego
+# Game object classes
 
 class Player(object):
     def __init__(self):
