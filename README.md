@@ -1,4 +1,4 @@
-Asteroids Game
+<!-- Asteroids Game
 This is a classic arcade-style game inspired by the original Asteroids game. The player controls a spaceship navigating through space, avoiding and destroying asteroids and enemies, while collecting power-ups and maintaining lives.
 
 Features
@@ -44,3 +44,6 @@ Include screenshots of your game here.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+-->
+
+>
