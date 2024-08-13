@@ -32,9 +32,11 @@ The player controls a spaceship navigating through space, avoiding and destroyin
 width="600"></center>  
 </p>  
 
-<!-- License
+<!-- 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 -->
 
+## Reference 
 
+EZ Coding. (2020, 3 diciembre). Asteroids Python Tutorial 
